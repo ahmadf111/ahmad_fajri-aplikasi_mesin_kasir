@@ -1,0 +1,20 @@
+var
+    NamaBarang, Keterangan : string;
+    JumlahBarang, HargaBarang, TotalHarga : integer;
+
+begin
+    Main()
+        Input (NamaBarang);
+        Input (JumlahBarang);
+        Input (HargaBarang);
+        Input (Keterangan);
+
+        if Keterangan == "Belum Selesai"
+        begin
+            Main()
+        end;
+
+        Print TotalHarga := JumlahBarang * HargaBarang;
+        Print (TotalHarga)
+
+end.
