@@ -9,4 +9,9 @@ begin
         Input (HargaBarang);
         Input (Keterangan);
 
+        if Keterangan == "Belum Selesai"
+        begin
+            Main()
+        end;
+
 end.
