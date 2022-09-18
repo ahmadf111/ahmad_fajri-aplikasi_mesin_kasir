@@ -6,3 +6,7 @@
 4. Condition Apakah ada barang yang ingin ditambahkan
 5. Menghitung Harga Total Barang
 6. Mencetak Total Harga Barang 
+
+## Tools 
+1. Visual Studio Code
+2. Extension Drawio Untuk Membuat Flowchart
