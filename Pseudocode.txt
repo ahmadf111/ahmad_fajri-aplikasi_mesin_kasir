@@ -1,0 +1,3 @@
+var
+    NamaBarang, Keterangan : string;
+    JumlahBarang, HargaBarang, TotalHarga : integer;
