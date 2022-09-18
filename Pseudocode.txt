@@ -14,4 +14,7 @@ begin
             Main()
         end;
 
+        Print TotalHarga := JumlahBarang * HargaBarang;
+        Print (TotalHarga)
+
 end.
